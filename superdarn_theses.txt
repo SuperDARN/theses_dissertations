@@ -1,0 +1,1351 @@
+Abooalizadeh, Zahra
+2015
+Long-term variations in the high-latitude plasma flows inferred from SuperDARN radar data
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/ETD-2015-04-2041
+
+Agaba, Doreen
+2012
+Calibration of a SuperDARN radar antenna by means of a satellite beacon
+Michael R. Inggs & Pierre J. Cilliers
+University of Cape Town, South Africa
+MS
+http://hdl.handle.net/11427/13917
+
+Amundsen, Andreas
+2016
+Do atmospheric waves transport aurorally produced NO down to the middle atmosphere?
+Patrick J. Espy
+Norwegian University of Science and Technology, Norway
+MS
+
+
+Andersen, Carl S.
+2005
+Characteristic behavior of the dayside aurora in the minutes leading up to substorm onset: Evidence for external triggering of substorms by the interplanetary magnetic field
+Charles S. Deehr
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/6202
+
+André, Raphaël
+1997
+Study of fine structures in the ionospheric convection recorded by SuperDARN: Structure with high velocity divergence
+Jean-Paul Villain
+Orléans University, France
+PhD
+https://www.theses.fr/1997ORLE2027
+
+Backer-Owe, Kåre
+2016
+Behaviour of the S1 and S2 components of the semidiurnal tide in the MLT
+Patrick J. Espy
+Norwegian University of Science and Technology, Norway
+MS
+http://hdl.handle.net/11250/2398890
+
+Balaji, Mrinal S.
+2007
+Design and implementation of novel radar modulations for the SuperDARN radar at Kodiak Island, Alaska
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/5671
+
+Ballatore, Paola
+2001
+Relationship between solar, interplanetary, and geomagnetic activities
+Jean-Paul Villain
+Orléans University, France
+PhD
+https://www.theses.fr/2001ORLE2003
+
+Bankole, Peter O.
+2019
+Study of the polar cap plasma flows with the Clyde River SuperDARN radar
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/11861
+
+Barris, Tighe
+2017
+Modelling and resolving of the ambiguous angle of arrival measurements of the SANAE IV SuperDARN radar
+Daniel W. O'Hagan, Michael J. Kosch & Jonathan Ward
+University of Cape Town, South Africa
+MS
+http://hdl.handle.net/11427/27082
+
+Barthès, Laurent
+1993
+Study of ionospheric plasma instabilities
+Jacques Citerne
+Paris 11 University, France
+PhD
+https://www.theses.fr/1993PA112090
+
+Barth, Vigdis L.
+2009
+Identification and tracking of extreme electron densities by EISCAT Svalbard radar and SuperDARN
+Jøran I. Moen & Kjellmar Oksavik
+University of Oslo, Norway
+MS
+http://hdl.handle.net/10852/11231
+
+Benkevitch, Leonid V.
+2005
+Effects of ionospheric conductance in high-latitude phenomena
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/etd-02062006-145708
+
+Benz, Susanne
+2010
+Identification of simultaneous Pc5 events
+A. David M. Walker & Judy A. E. Stephenson
+University of KwaZulu-Natal, South Africa & University of Konstanz, Germany
+MS
+
+
+Besser, Veronika
+2000
+An investigation of small-scale relationships between optical and HF radar aurora
+Roger W. Smith
+University of Alaska Fairbanks, USA
+PhD
+http://hdl.handle.net/11122/9514
+
+Bhatt, Asti N.
+2004
+Ionospheric radar observations of heater-induced field-aligned irregularities
+Charles M. Swenson
+Utah State University, USA
+MS
+https://search.proquest.com/docview/305102611
+
+Bland, Emma C.
+2016
+High frequency remote sensing of Pc5 ultra-low frequency waves using the Super Dual Auroral Radar Network
+Andrew J. McDonald
+La Trobe University, Australia
+PhD
+http://hdl.handle.net/1959.9/558130
+
+Carter, Brett A.
+2011
+HF radar observations of E-region plasma waves in the sub-auroral, auroral and polar regions
+Roman A. Makarevich & Svetlana Petelina
+La Trobe University, Australia
+PhD
+http://hdl.handle.net/1959.9/537943
+
+Chapana, Randi S. H.
+2012
+The relative influence of solar radiative and solar geomagnetic variation on the dynamics of the plar upper mesosphere
+Robert E. Hibbins
+Norwegian University of Science and Technology, Norway
+MS
+http://hdl.handle.net/11250/246768
+
+Chen, Xiang-Cai
+2017
+A study of dayside open/closed field line boundary dynamics using simultaneous ground-based optical and HF radar observations
+Dag Lorentzen & Jøran I. Moen
+The University Centre in Svalbard & University of Oslo, Norway
+PhD
+
+
+Chen, Yuanming
+2008
+Multi-spectral-peak detection algorithm for autocorrelation functions of radar signals
+Simon G. Shepherd
+Dartmouth College, USA
+MS
+
+
+Chifoto, Perfect P.
+2015
+Mesosphere-lower thermosphere planetary and tidal waves structure over the southern hemisphere using SANAE and Halley SuperDARN HF radar
+Sivakumar Venkataraman & Nkanyiso B. Mbatha
+University of KwaZulu-Natal, South Africa
+MS
+http://hdl.handle.net/10413/15558
+
+Chowdhury, Mahamudul
+2015
+The influence of the solar wind dynamic pressure and of the Bz component of the interplanetary magnetic field on the magnetic storm index
+Jean-Pierre St.-Maurice
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/ETD-2014-03-1548
+
+Coco, Igino
+2005
+Studio degli effetti di impulsi di pressione dinamica del vento solare sulla ionosfera aurorale e polare con i radar della rete SuperDARN
+Ermanno Amata
+University of Siena, Italy
+PhD
+
+
+Cooper, Joel
+2006
+A 50 MHz FMCW radar for the study of E-region coherent backscatter
+Glenn C. Hussey
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-06262006-204840
+
+Cousins, Ellen D. P.
+2012
+Statistical analysis and empirical modeling of large- and small-scale plasma drifts in Earth's high-latitude ionospheres
+Simon G. Shepherd
+Dartmouth College, USA
+PhD
+https://search.proquest.com/docview/1466593040
+
+Currie, Julie L.
+2017
+Dynamics of HF radar backscatter in the middle and high latitude ionospheres
+Colin L. Waters, Murray D. Sciffer & Fred W. Menk
+University of Newcastle, Australia
+PhD
+http://hdl.handle.net/1959.13/1355806
+
+Custovic, Edhem
+2018
+Phase measurement, optimisation and calibration of a high frequency over the horizon radar
+John C. Devlin & Jim S. Whittington
+La Trobe University, Australia
+PhD
+http://hdl.handle.net/1959.9/567572
+
+Dai, Wei
+2000
+Meteor wind wave analysis of SuperDARN observations
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/6721
+
+Danskin, Donald W.
+2003
+HF auroral backscatter from the E and F regions
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/etd-10242003-121305
+
+Demissie, Teferi D.
+2013
+The vertical structure and source regions of large and small scale waves in the middle atmosphere
+Patrick J. Espy
+Norwegian University of Science and Technology, Norway
+PhD
+http://hdl.handle.net/11250/247139
+
+de Larquier, Sebastien
+2013
+The mid-latitude ionosphere under quiet geomagnetic conditions: propagation analysis of SuperDARN radar observations from large ionospheric perturbations
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+PhD
+http://hdl.handle.net/10919/24770
+
+Dixon, Kristoffer C.
+2014
+Analysis of refractive effects on mid-latitude SuperDARN velocity measurements
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/50615
+
+Dougal, Emily R.
+2013
+Mapping of the quasi-periodic oscillations at the flank magnetopause into the ionosphere
+Katariina Nykyri
+Embry-Riddle Aeronautical University, USA
+MS
+https://commons.erau.edu/edt/49
+
+Drayton, Robyn A.
+2006
+Study of SAPS-like flows with the King Salmon SuperDARN radar
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-11032006-154108
+
+Dusterwald, Thomas
+2016
+Implementation of a low cost demonstrator HF riometer on a flexible FPGA backend
+Daniel W. O'Hagan, Michael Kosch & Jonathan Ward
+University of Cape Town, South Africa
+MS
+http://hdl.handle.net/11427/27872
+
+Eltrass, Ahmed S. H.
+2015
+The mid-latitude ionosphere: Modeling and analysis of plasma wave irregularities and the potential impact on GPS signals
+Wayne A. Scales
+Virginia Tech, USA
+PhD
+http://hdl.handle.net/10919/51804
+
+Eriksson, Tommy
+2003
+Wave pulsations in the magnetosphere and their dependence on the solar wind
+A. David M. Walker & Judy A. E. Stephenson
+University of KwaZulu-Natal, South Africa & KTH Royal Institute of Technology, Sweden
+MS
+
+
+Fenrich, Frances R. E.
+1997
+The field line resonance: Observation and theory
+John C. Samson
+University of Alberta, Canada
+PhD
+https://doi.org/10.7939/R36D5PN7X
+
+Fiori, Robyn A. D.
+2012
+Applicatin of spherical cap harmonic analysis to plasma convection mapping at high latitudes
+Alexandre V. Koustov & David H. Boteler
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/ETD-2011-12-269
+
+Friedrich, Erena
+2002
+Dynamics of the substorm expansive phase
+John C. Samson
+University of Alberta, Canada
+PhD
+https://search.proquest.com/docview/304744408
+
+Frissell, Nathaniel A.
+2016
+Ionospheric disturbances: Midlatitude Pi2 magnetospheric ULF pulsations and medium scale traveling ionospheric disturbances
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+PhD
+http://hdl.handle.net/10919/74976
+
+Forsythe, Victoriya V.
+2017
+High frequency backscatter from the polar and auroral E-region ionosphere
+William A. Bristow
+University of Alaska Fairbanks, USA
+PhD
+http://hdl.handle.net/11122/7600
+
+Gallardo-Lacourt, Beatriz I.
+2016
+Properties of mesoscale flows in the nightside auroral and subauroral ionosphere
+Lawrence R. Lyons
+University of California, Los Angeles, USA
+PhD
+https://escholarship.org/uc/item/6483m1t3
+
+Ghezelbash, Mohsen
+2013
+Occurrence and causes of F-region echoes for the Canadian PolarDARN/SuperDARN radars
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/ETD-2013-03-949
+
+Gillies, Deborah M.
+2012
+Global-scale observations of changes in ionospheric echo occurrence and convection during periods of increased solar wind activity and increased geomagnetic activity
+Jean-Pierre St.-Maurice & Kathryn A. McWilliams
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/ETD-2012-04-421
+
+Gillies, Robert G.
+2006
+Modelling of transionospheric HF radio wave propagation for the ISIS II and ePOP satellites
+Glenn C. Hussey
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-02062006-092832
+
+Gillies, Robert G.
+2010
+Transionospheric signal modelling for ePOP and SuperDARN
+Glenn C. Hussey
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/etd-12152010-124641
+
+Goodwin, Lindsay V.
+2013
+F-region dusk ion temperature spikes at the equatorward edge of the high latitude convection region
+Jean-Pierre St.-Maurice
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/ETD-2013-12-1333
+
+Goodwin, Lindsay V.
+2018
+Radar and satellite characterization of the ionosphere under strong electric field conditions
+Jean-Pierre St.-Maurice
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/8541
+
+Gorin, James D.
+2008
+Velocity of decameter electrojet irregularities under strongly driven conditions
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-09192008-151723
+
+Gray, Christopher
+2018
+High-frequency radar antenna array characterisation
+P. Gideon Wiid & Michael J. Kosch
+Stellenbosch University, South Africa
+MS
+
+
+Greenwood, Robert I.
+2010
+Wind-wave mapping of the southern ocean using the TIGER SuperDARN radars
+
+La Trobe University, Australia
+PhD
+
+
+Hill, Madison A.
+2018
+Solar flare detection in SuperDARN data
+Simon G. Shepherd
+Dartmouth College, USA
+MS
+https://search.proquest.com/docview/2188060209/
+
+Hird, Fraser C.
+2019
+High frequency radio wave transionospheric propagation polarization studies from the RRI-SuperDARN experiment
+Glenn C. Hussey
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/12219
+
+Hiyadutuje, Alicreance
+2016
+Ionospheric disturbances during magnetic storms at SANAE
+Judy A. E. Stephenson & Zama T. Katamzi-Joseph
+Rhodes University, South Africa
+MS
+http://hdl.handle.net/10962/54956
+
+Hiyadutuje, Alicreance
+2019
+The effects of traveling ionospheric disturbances on polar mesospheric summer echoes
+Michael J. Kosch & Judy A. E. Stephenson
+University of KwaZulu-Natal, South Africa
+PhD
+
+
+Hogue, Christopher M.
+2003
+Comparative study on the use of coherent radar-derived electric fields vs. statistical electric fields for the initialization of a high-latitude ionospheric model
+Clark Groves
+Air Force Institute of Technology, USA
+MS
+https://apps.dtic.mil/docs/citations/ADA426801
+
+Holliday, Michael J.
+2007
+Modeling and analysis of ionospheric current systems formed in response to sudden impulse events
+Simon G. Shepherd
+Dartmouth College, USA
+MS
+
+
+Hoque, S.N.M. Azizul
+2014
+Open-closed magnetic field line boundary identification using directional derivatives of SuperDARN convection flow
+Frances R. Fenrich
+University of Alberta, Canada
+PhD
+https://doi.org/10.7939/R3KW57S25
+
+Hosokawa, Keisuke
+2003
+Observational studies on the high-latitude ionospheric plasma irregularities
+Toshihiko Iyemori
+Kyoto University, Japan
+PhD
+http://hdl.handle.net/2433/149076
+
+Humberset, Beate K.
+2017
+Scale size-dependent characteristics of the magnetosphere-ionosphere system using auroral imaging
+Jesper Gjerloev & Kjellmar Oksavik
+University of Bergen, Norway
+PhD
+http://bora.uib.no/handle/1956/16800
+
+Huyghebaert, Devin R.
+2013
+Solar wind influences on properties of the ionosphere
+Kathryn A. McWilliams
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/ETD-2013-08-1198
+
+Huyghebaert, Devin R.
+2019
+The Ionospheric Continuous-wave E-region Bistatic Experimental Auroral Radar (ICEBEAR)
+Glenn C. Hussey
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/12190
+
+Ibáñez, Karina E. B.
+2009
+Observations of polar cap patch substructures by EISCAT Svalbard radar
+Jøran I. Moen & Kjellmar Oksavik
+University of Oslo, Norway
+MS
+https://www.duo.uio.no/handle/10852/11234
+
+Iserhienrhien, Blessing
+2016
+On the origin of close-range E region echoes observed by SuperDARN HF radars in the mid- and high latitudes
+Jean-Pierre St.-Maurice & Pavlo V. Ponomarenko
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/ETD-2016-04-2517
+
+Jafari, Ramin
+2013
+SuperDARN parameter estimation optimization and implementation of new techniques
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/4599
+
+Joshi, Pratik P.
+2015
+Ion-neutral coupling in the geomagnetically disturbed mid-latitude ionosphere as observed by SuperDARN HF radars and NATION Fabry-Perot Interferometers
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/56561
+
+Karmand, Sharareh
+2007
+Eigenstructure analysis
+
+University of Alberta, Canada
+MS
+https://search.proquest.com/docview/304792876
+
+Kennedy, Paul S.
+2019
+Design of software defined radio for SuperDARN radar
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/89908
+
+Kunduri, Bharat S. R.
+2013
+A study of interhemispheric magnetic conjugacy and large scale magnetosphere-ionosphere coupling using SuperDARN radars
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+PhD
+http://hdl.handle.net/10919/24772
+
+Lamarche, Leslie
+2017
+Plasma irregularity production in the polar cap F-region ionosphere
+Roman A. Makarevich
+University of Alaska Fairbanks, USA
+PhD
+http://hdl.handle.net/11122/7619
+
+Leonard, J. M.
+1991
+The phenology of Antarctic F-region irregularities
+
+British Antarctic Survey, UK
+MS
+
+
+Liang, Jun
+2004
+Multi-instrument studies of ionospheric and magnetospheric processes
+George J. Sofko
+University of Saskatchewan
+PhD
+http://hdl.handle.net/10388/etd-10272004-171452
+
+Liu, Heng
+2010
+Study of the high-latitude ionosphere with the Rankin Inlet PolarDARN radar
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-03232010-114923
+
+Lointier, Guillaume
+2008
+Toward a real time monitoring of magnetospheric regions using the SuperDARN coherent HF radar network
+Thierry Dudok de Wit & Christian Hanuise
+Orléans University, France
+PhD
+https://tel.archives-ouvertes.fr/tel-00294447
+
+M'mame, Bernard
+2018
+Analysis of possible Pc5 pulsations during times of known TRINNI events
+A. David M. Walker & Judy A. E. Stephenson
+University of KwaZulu-Natal, South Africa
+MS
+
+
+Ma, Zhen G.
+2009
+Ion velocity distributions in inhomogeneous and time-dependent auroral situations
+Jean-Pierre St.-Maurice
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/etd-03032009-122236
+
+Magnus, Lindsay G.
+2009
+An analysis of Pc5 pulsations observed in the SuperDARN radar data
+A. David M. Walker & Jon P. S. Rash
+University of KwaZulu-Natal, South Africa
+PhD
+http://hdl.handle.net/10413/4975
+
+Makarevich, Roman
+2003
+Formation of small-scale irregularities in the auroral E region
+Alexandre V. Koustov & Andrei I. Smolyakov
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/etd-10202008-111852
+
+Malhotra, Garima
+2014
+HF radar observations of inter-annual variations in mid-latitude mesospheric winds
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/78084
+
+Maphaha, Fulufhelo K.
+2010
+Mapping of magnetospheric electric fields from Cluster into ionospheric convection from SuperDARN using the Tsyganenko field model
+Sadhasivan R. Pillay & Lindsay R. Magnus
+University of KwaZulu-Natal, South Africa
+MS
+http://hdl.handle.net/10413/5793
+
+Marchaudon, Aurélie
+2000
+Electrodynamic coupling between the terrestrial magnetosphere and ionosphere: Correlation between ionospheric convection and field-aligned currents
+Jean-Claude Cerisier
+Paris 11 University, France
+MS
+
+
+Marchaudon, Aurélie
+2003
+Dynamics of auroral structures in the dayside and in the nightside: Multi-instrument study of the coupling with the magnetosphere and the interplanetary medium
+Jean-Claude Cerisier
+Versailles-Saint-Quentin University, France
+PhD
+https://tel.archives-ouvertes.fr/tel-00008894
+
+Matthews, Joe T.
+2005
+The role of ULF waves in energy transport in the magnetosphere
+Moritz Heimpel
+University of Alberta, Canada
+PhD
+https://search.proquest.com/docview/305382732
+
+Mazzino, Maria L. P.
+2015
+Field line resonances in Earth's magnetosphere: A study of their observation, characterization and wave sources in the solar wind
+Richard D. Sydora
+University of Alberta, Canada
+PhD
+https://doi.org/10.7939/R3416T70S
+
+Mbatha, Nkanyiso B.
+2012
+Study on 2002 sudden stratospheric warming, mesopher-lower thermospheric wind structure and dynamics and middle atmospheric structure, based on SuperDARN HF radar, LIDAR, Riometer, satellites and models
+Sivakumar Venkataraman, Sandile B. Malinga, Sadhasivan Pillay & Hassan Bencherif
+University of KwaZulu-Natal, South Africa
+PhD
+http://hdl.handle.net/10413/9731
+
+McCubbin, Beth
+2012
+Neutral wind determination from SuperDARN backscatter: Technique and application to the study of atmospheric waves and tides
+Simon G. Shepherd
+Dartmouth College, USA
+MS
+https://search.proquest.com/docview/1512424312
+
+Mdibi, Lusanda
+2016
+A land-based HF transmitter for ionospheric propagation studies using SuperDARN radars
+Cape Peninsula University of Technology, South Africa
+Robert van Zyl & Michael J. Kosch
+MS
+
+
+McWilliam, Kathleen
+2018
+Design of an HF transmit antenna for bistatic ionospheric soundings in Antarctica
+Francois Schonken, Michael J. Kosch & Jonathan Ward
+University of Cape Town, South Africa
+MS
+
+
+Minko, F. Sagouo
+2013
+CubeSat mission design for characterising the dual auroral radar network (SuperDARN) field-of-view
+Robert van Zyl
+Cape Peninsula University of Technology, South Africa
+MS
+http://datad.aau.org/handle/20.500.11838/1171
+
+Miyoba, Webby
+2006
+The application of wavelet techniques to the analysis of ultra low frequency (ULF) pulsations
+A. David M. Walker & Jon P. S. Rash
+University of KwaZulu-Natal, South Africa
+MS
+
+
+Mori, Daniel T.
+2012
+SuperDARN cross polar cap potential and parameters of the near-Earth space
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/ETD-2011-12-266
+
+Morris, Alex
+2014
+Design of a flexible and low-power ionospheric sounder
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/4535
+
+Moses, Magdalina L.
+2019
+Analysis of the effect of the August 2017 eclipse on the ionosphere using a ray-trace algorithm
+Gregory D. Earle
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/92798
+
+Mthembu, Sibusiso H.
+2010
+An investigation of ultra low frequency (ULF) pulsations using radar data and solar wind data
+Sandile B. Malinga, A. David M. Walker & Lindsay G. Magnus
+University of KwaZulu-Natal, South Africa
+MS
+http://hdl.handle.net/10413/1073
+
+Mthembu, Sibusiso H.
+2013
+Studies on atmospheric tides and planetary waves in the mesosphere-lower thermosphere (MLT) region using SuperDARN HF radars and meteor radar
+Sivakumar Venkataraman, Sandile B. Malinga & Sadhasivan R. Pillay
+University of KwaZulu-Natal, South Africa
+PhD
+http://hdl.handle.net/10413/12229
+
+Mtumela, Zolile
+2009
+An investigation of high velocity flows in HF radar data during northward interplanetary magnetic field, non-substorm intervals
+Jon P. S. Rash
+University of KwaZulu-Natal, South Africa
+MS
+http://hdl.handle.net/10413/5431
+
+Mtumela, Zolile
+2014
+An investigation of the nature of Pc5 pulsations using SuperDARN and magnetometer data
+A. David M. Walker & Judy A. E. Stephenson
+University of KwaZulu-Natal, South Africa
+PhD
+http://hdl.handle.net/10413/12943
+
+Nambala, Fred J.
+2010
+Feasibility study of ionospheric tomography using HF radar
+Jon P. S. Rash & Lindsay R. Magnus
+University of KwaZulu-Natal, South Africa
+MS
+http://hdl.handle.net/10413/1035
+
+Ndiitwani, Dzivhuluwani C.
+2010
+Ultra low frequency (ULF) waves observed at mid to low latitudes during daytime using low Earth orbit (LEO) satellite and ground based data
+A. David M. Walker & Peter R. Sutcliffe
+University of KwaZulu-Natal, South Africa
+PhD
+http://hdl.handle.net/10413/5663
+
+Nedie, Abiyu Z.
+2012
+ULF waves in the magnetosphere and their association with magnetopause instabilities and oscillations
+Frances R. Fenrich
+University of Alberta, Canada
+PhD
+https://doi.org/10.7939/R31620
+
+Nguyen, Dat P.
+2013
+Correlation between geomagnetic indices and cross polar cap potential measurements from SuperDARN
+Simon G. Shepherd
+Dartmouth College, USA
+MS
+https://search.proquest.com/docview/1619638285
+
+Nguyen, Quang H.
+2013
+Investigation and implementation of control and synchronisation algorithms for HF radar using multiple digital transceivers
+John C. Devlin & Jim S. Whittington
+La Trobe University, Australia
+PhD
+http://hdl.handle.net/1959.9/495613
+
+Nguyen, Quang X.
+2001
+HF antenna design for TIGER
+
+La Trobe University, Australia
+PhD
+
+
+Nguyen, Thanh
+2014
+Spectrum Difference Function technique for measuring radar target velocity
+John C. Devlin, Guang Deng & Darrell Elton
+La Trobe University, Australia
+PhD
+http://hdl.handle.net/1959.9/509557
+
+Ngwane, Ntlakanipho
+2016
+Studies on the short term planetary wave activity in the MLT region over the southern hemisphere using SuperDARN HF radar
+Sivakumar Venkataraman
+University of KwaZulu-Natal, South Africa
+MS
+
+
+Ngwane, Ntlakanipho
+2017
+An investigation on the thermospheric temperature and wind structure in relation to auroral precipitation
+Zolile Mtumela & Michael J. Kosch
+University of KwaZulu-Natal, South Africa
+PhD
+
+
+Oksavik, Kjellmar
+2002
+A study of temporal and spatial variations in the polar cusp/cleft region using multi-instrument techniques
+Finn Soraas & Jøran I. Moen
+University of Bergen & University Courses on Svalbard, Norway
+PhD
+https://folk.uib.no/st07350/papers/DoctorThesis.pdf
+
+Parker, James
+2018
+Application and evaluation of EDAM with assimilated GPS total electron content in the European sector
+Eleri Pryse
+Aberystwyth University, UK
+PhD
+http://hdl.handle.net/2160/6563a305-176c-4280-bd2a-12b7ae41ce1d
+
+Parris, Richard Todd
+2003
+Design and implementation of a meteor tracking retrofit system for the HF radar at Kodiak Island, Alaska
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/8549
+
+Perron, Patrick
+2014
+Contribution of ion temperature anisotropy and velocity shears in the direct generation of small-scale irregularities in the high-latitude F-region
+Jean-Marc Noël
+Royal Military College of Canada, Canada
+PhD
+http://hdl.handle.net/11264/142
+
+Perry, Gareth W.
+2010
+Optimization of a 50 MHz Frequency Modulated Continuous Wave radar system for the study of auroral E-region coherent backscatter
+Glenn C. Hussey
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-08192010-092157
+
+Perry, Gareth W.
+2015
+Large scale plasma density perturbations in the polar F-region ionosphere
+Jean-Pierre St.-Maurice
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/ETD-2015-02-1947
+
+Pfeifer, Jeff B.
+2008
+A SuperDARN study of steady magnetospheric convection
+Kathryn A. McWilliams
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-06302008-131440
+
+Pramodkumar, Neeraj
+2013
+Large-scale observations of the spatial and temporal dynamics of quiet-time sub-auroral polarization streams using SuperDARN HF Radars
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/23845
+
+Raghavendar, Changalvala
+2005
+Design of a receiver for measurement of real-time ionospheric reflection height
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/5999
+
+Ravindran Varrier, Nitya
+2010
+Ray tracing analysis for the mid-latitude SuperDARN HF radar at Blackstone incorporating the IRI-2007 model
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/33998
+
+Reed, Kristian
+2017
+Study of meso-scale reversed flow events in the polar ionosphere by SuperDARN radars
+Kjellmar Oksavik
+University of Bergen & The University Centre in Svalbard, Norway
+MS
+http://bora.uib.no/handle/1956/16148
+
+Reimer, Ashton S.
+2018
+Improved SuperDARN radar signal processing: A first principles statistical approach for reliable measurement uncertainties and enhanced data products
+Glenn C. Hussey
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/8534
+
+Reistad, Jone Peter
+2016
+Mechanisms responsible for asymmetric aurora between the conjugate hemispheres
+Nikolai Østgaard & Kjellmar Oksavik
+University of Bergen, Norway
+PhD
+http://bora.uib.no/handle/1956/12121
+
+Ribeiro, Alvaro J.
+2011
+An examination of ionospheric plasma irregularities detected by the mid-latitude SuperDARN radars
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/31698
+
+Ribeiro, Alvaro J.
+2013
+SuperDARN data simulation, processing, access, and use in analysis of mid-latitude convection
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+PhD
+http://hdl.handle.net/10919/24469
+
+Rinne, Yvonne
+2006
+EISCAT observations of reversed flow events in the cusp ionosphere
+Jøran I. Moen
+University of Oslo, Norway
+MS
+
+
+Rinne, Yvonne
+2010
+EISCAT Svalbard Radar studies of meso-scale plasma flow channels in the polar cusp ionosphere
+Jøran I. Moen & Per Even Sandholt
+University of Oslo, Norway
+PhD
+https://www.duo.uio.no/handle/10852/10994
+
+Salim, Tariq
+2003
+Design, synthesis and implementation of a phased array transmitter using reconfigurable devices for SuperDARN class radars
+
+La Trobe University, Australia
+PhD
+
+
+Samseth, Ingvild
+2013
+Solar and lunar tides in the MLT
+Robert E. Hibbins
+Norwegian University of Science and Technology, Norway
+MS
+http://hdl.handle.net/11250/246977
+
+Schiffler, Andreas
+1996
+SuperDARN measurements of double-peaked velocity spectra
+George J. Sofko
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-06212012-115443
+
+Schwab, Robert D.
+2007
+Energy dispersed ion signatures at auroral and subauroral latitudes
+George J. Sofko & Kathryn A. McWilliams
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-04032007-171247
+
+Scoular, Grant
+2013
+Polar cap ionospheric oscillations in the ULF frequency range observed with SuperDARN HF radar
+Jean-Pierre St.-Maurice & Pavlo V. Ponomarenko
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/ETD-2013-08-1149
+
+Sedeh, Leila N.
+2014
+Doppler clutter in HF radar systems produced by ULF waves
+Colin L. Waters, Murray D. Sciffer & Fred W. Menk
+University of Newcastle, Australia
+PhD
+http://hdl.handle.net/1959.13/1042283
+
+Sharma, Arvind
+2007
+A DMSP satellite study of magnetospheric plasma convection and particle precipitation states during passage at Earth of interplanetary magnetic clouds monitored by the Wind spacecraft
+Per Even Sandholt & Charles J. Farrugia
+University of Oslo, Norway
+MS
+https://www.duo.uio.no/handle/10852/11154
+
+Shi, Xueling
+2019
+Occurrence statistics and driving mechanisms of ionospheric ultra-low frequency waves observed by SuperDARN radars
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+PhD
+
+
+Simon, Michelle R.
+2016
+Using SuperDARN to predict polar irregularities that cause GPS scintillation
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/7312
+
+Smith, Lois K.
+2016
+Data analysis of the high-energy ion tail in Earth's plasmasphere
+Michael W. Liemohn
+University of Michigan, USA
+PhD
+http://hdl.handle.net/2027.42/135838
+
+Strömberg, Frida
+2017
+Formulating launch conditions for a sounding rocket
+Mykola Ivchenko
+KTH Royal Institute of Technology, Sweden
+MS
+http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-214463
+
+Sterne, Kevin T.
+2010
+Testing the re-designed SuperDARN HF radar and modeling of a twin terminated folded dipole array
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/32239
+
+Stray, Nora H.
+2015
+Planetary waves in the MLT: Vertical coupling and effects
+Patrick J. Espy
+Norwegian University of Science and Technology, Norway
+PhD
+http://hdl.handle.net/11250/284495
+
+Theurer, Timothy E.
+2012
+Ray tracing applications for high-frequency radar: Characterizing artificial layers and background density perturbations in the ionosphere
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+http://hdl.handle.net/11122/8421
+
+Thomas, Evan G.
+2012
+Dynamics of the geomagnetically disturbed ionosphere as measured by GPS receivers and SuperDARN HF radars
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/19207
+
+Thomas, Evan G.
+2016
+Morphology and dynamics of storm-time ionospheric density structures
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+PhD
+http://hdl.handle.net/10919/64905
+
+Thorolfsson, Adalbjorn
+2000
+The solar wind control of transient ionospheric convection events in the dayside region
+Jean-Claude Cerisier
+Paris 6 University, France
+PhD
+https://www.theses.fr/2000PA066456
+
+Toderian, Sarah
+2015
+Modellling the geometric structure of the magnetic field in the nightside magnetosphere
+George J. Sofko & Glenn C. Hussey
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/ETD-2013-03-1448
+
+Vallières, Xavier
+2002
+Turbulence scales in the high-latitude ionosphere and their signatures upon echoes detected by SuperDARN HF radars
+Jean-Paul Villain
+Orléans University, France
+PhD
+https://tel.archives-ouvertes.fr/tel-00689878
+
+van der Meeren, Christer
+2016
+Mesoscale ionospheric plasma irregularities and scintillation over Svalbard
+Kjellmar Oksavik & Dag Lorentzen
+University of Bergen & The University Centre in Svalbard, Norway
+PhD
+http://bora.uib.no/handle/1956/12991
+
+van Zyl, Willem
+2018
+Development of a RF listening mode on the Tiger-3 FPGA platform
+Andrew Wilkinson, Michael J. Kosch & Jonathan Ward
+University of Cape Town, South Africa
+MS
+
+
+Victorin, Amalia
+2007
+Multitaper method for spectral analysis and signal reconstruction of solar wind data
+A. David M. Walker & Judy A. E. Stephenson
+University of KwaZulu-Natal, South Africa & KTH Royal Institute of Technology, Sweden
+MS
+http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-91824
+
+Villain, Jean-Paul
+1985
+HF coherent radar study of ionization irregularities in auroral and polar F region
+Jean Delloue
+Toulon University, France
+PhD
+https://www.theses.fr/1985TOUL0003
+
+Walach, Maria-Theresia
+2017
+Ionospheric convection and auroral responses to solar wind driving
+Stephen E. Milan & Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/39717
+
+Wang, Jun
+2013
+Spectral characterization of ionosphere scintillation: Algorithms and applications
+Yu Morton
+Miami University, USA
+MS
+http://rave.ohiolink.edu/etdc/view?acc_num=miami1385774581
+
+Wessel, Matthew R.
+2017
+SuperDARN electrostatic potential function estimation of field-aligned currents
+George J. Sofko & Kathryn A. McWilliams
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/8078
+
+Whittick, Emma L.
+2011
+Studies of the high-latitude electric potential pattern in the CTIP model with radio tomography comparisons
+Eleri Pryse
+Aberystwyth University, UK
+PhD
+http://hdl.handle.net/2160/6122
+
+Wild, James A.
+2000
+Electrodynamics of the auroral ionosphere during magnetospheric substorms
+Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30641
+
+Wilder, Frederick D.
+2008
+Reverse convection potential saturation in the polar ionosphere
+C. Robert Clauer
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/31847
+
+Wilder, Frederick D.
+2011
+The non-linear electrodynamic coupling between the solar wind, magnetosphere and ionosphere
+C. Robert Clauer
+Virginia Tech, USA
+PhD
+http://hdl.handle.net/10919/26586
+
+Woodfield, Emma E.
+2002
+Studies of nightside spectral with behaviour from coherent high frequency radars
+Mark Lester
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30664
+
+Xu, Liang
+2003
+SuperDARN-derived plasma convection: Comparison with other data and application to field-aligned current measurements
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+PhD
+https://search.proquest.com/docview/305242271
+
+Yakymenko, Kateryna N.
+2017
+Solar wind and interplanetary magnetic field effects in the magnetosphere-ionosphere system
+Alexandre V. Koustov
+University of Saskatchewan, Canada
+PhD
+http://hdl.handle.net/10388/7945
+
+Yamakawa, Chika
+2008
+Study of sun-aligned arcs with OMTIs and SuperDARN
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
+
+Yamano, Taiki
+2007
+Simultaneous measurement of pulsating aurora with ground-based all-sky TV camera and SuperDARN
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
+
+Yan, Xi
+2009
+Studies of the IMF and dayside reconnection-driven convection seen by PolarDARN
+George J. Sofko & Kathryn A. McWilliams
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/etd-03262010-235811
+
+Yang, Bing
+2017
+Using the motion of patchy pulsating aurora to remote sense magnetospheric convection
+Eric Donovan
+University of Calgary, Canada
+PhD
+http://hdl.handle.net/11023/4153
+
+Ye, Gao
+2012
+On the response of polar cap dynamics to its solar wind and magnetotail drivers at high levels of geomagnetic activity
+Raymond J. Walker
+University of California, Los Angeles, USA
+PhD
+https://escholarship.org/uc/item/23r2781b
+
+Yee, Ronald
+1996
+A digital imaging system for auroral processes
+George J. Sofko & Hugh C. Wood
+University of Saskatchewan, Canada
+MS
+http://hdl.handle.net/10388/11846
+
+Yukimatu, Akira S.
+2002
+SuperDARN studies of polar upper atmosphere physics with high temporal resolution ACF measurements and raw time series analysis
+
+Kyoto University, Japan
+PhD
+http://hdl.handle.net/2433/149552
+
+Zesta, Eftyhia
+1997
+Traveling convection vortices at cusp latitudes observed by the magnetometer array for cusp and cleft studies
+W. Jeffrey Hughes
+Boston University, USA
+PhD
+https://search.proquest.com/docview/304342337
+
+Zou, Li
+1997
+A modelling study of HF radar coherent detection of irregularities in the high-latitude ionosphere
+Mark Lester
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30604
+
+Zou, Shasha
+2009
+Evolution of high latitude ionospheric convection associated with substorms: Multiple radar observations
+Lawrence R. Lyons
+University of California, Los Angeles, USA
+PhD
+https://search.proquest.com/docview/304854851
+
+Zou, Ying
+2015
+Polar cap precursor of nightside meso-scale auroral enhancements
+Lawrence R. Lyons
+University of California, Los Angeles, USA
+PhD
+https://escholarship.org/uc/item/0r87s351
