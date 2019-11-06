@@ -46,6 +46,14 @@ Norwegian University of Science and Technology, Norway
 MS
 http://hdl.handle.net/11250/2398890
 
+Baddeley, Lisa
+2003
+Wave-particle insteractions in the terrestrial magnetosphere
+Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30668
+
 Balaji, Mrinal S.
 2007
 Design and implementation of novel radar modulations for the SuperDARN radar at Kodiak Island, Alaska
@@ -69,6 +77,14 @@ Alexandre V. Koustov
 University of Saskatchewan, Canada
 MS
 http://hdl.handle.net/10388/11861
+
+Barnes, David
+2017
+Forecasting and modelling the terrestrial effects of space weather using STEREO and CMAT2
+Alan Aylward, Chris Scott & Jackie Davies
+University College London, UK
+PhD
+https://discovery.ucl.ac.uk/id/eprint/1535270
 
 Barris, Tighe
 2017
@@ -133,6 +149,30 @@ Andrew J. McDonald
 La Trobe University, Australia
 PhD
 http://hdl.handle.net/1959.9/558130
+
+Bond, Giles E.
+1997
+The interaction of radio waves with the auroral ionosphere
+
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30629
+
+Borderick, James D.
+2011
+Ionospheric signatures of ultra low frequency waves
+Timothy K. Yeoman & Stephen E. Milan
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/9170
+
+Bryson, Gwendolyn R.
+2009
+Winds and the meteors that burn for them
+William A. Bristow
+University of Alaska Fairbanks, USA
+MS
+
 
 Carter, Brett A.
 2011
@@ -238,6 +278,14 @@ University of Saskatchewan, Canada
 PhD
 http://hdl.handle.net/10388/etd-10242003-121305
 
+David, Timothy W.
+2017
+Investigation of plasma upwellings from the Earth's upper atmosphere during the International Polar Year 2007 campaign
+Darren M. Wright & Stephen E. Milan
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/40448
+
 Demissie, Teferi D.
 2013
 The vertical structure and source regions of large and small scale waves in the middle atmosphere
@@ -253,6 +301,14 @@ Joseph B. H. Baker & J. Michael Ruohoniemi
 Virginia Tech, USA
 PhD
 http://hdl.handle.net/10919/24770
+
+Dhillon, Ranvir S.
+2002
+Radar studies of natural and artificial waves and instabilities in the auroral ionosphere
+Terence R. Robinson
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30657
 
 Dixon, Kristoffer C.
 2014
@@ -270,6 +326,14 @@ Embry-Riddle Aeronautical University, USA
 MS
 https://commons.erau.edu/edt/49
 
+Draper, Natalie C.
+2005
+Multi-instrument magnetospheric substorm studies
+Mark Lester
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30683
+
 Drayton, Robyn A.
 2006
 Study of SAPS-like flows with the King Salmon SuperDARN radar
@@ -285,6 +349,14 @@ Daniel W. O'Hagan, Michael Kosch & Jonathan Ward
 University of Cape Town, South Africa
 MS
 http://hdl.handle.net/11427/27872
+
+Eglitis, Paul
+1994
+Radar studies of small-scale E-region plasma irregularities
+
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/35875
 
 Eltrass, Ahmed S. H.
 2015
@@ -318,6 +390,14 @@ University of Saskatchewan, Canada
 PhD
 http://hdl.handle.net/10388/ETD-2011-12-269
 
+Forsyth, Colin
+2009
+Bursty bulk flows and substorm-time magnetotail dynamics
+Mark Lester
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/4555
+
 Friedrich, Erena
 2002
 Dynamics of the substorm expansive phase
@@ -349,6 +429,22 @@ Lawrence R. Lyons
 University of California, Los Angeles, USA
 PhD
 https://escholarship.org/uc/item/6483m1t3
+
+Gane, Stuart C.
+2011
+Continuous pulsation dynamics in the high-latitude magnetosphere-ionosphere system
+Darren M. Wright & Terence R. Robinson
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/9695
+
+Gauld, Jonathan K.
+2000
+Studies of the signatures of magnetospheric substorms in coherent backscatter radars
+Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30633
 
 Ghezelbash, Mohsen
 2013
@@ -406,6 +502,14 @@ University of Saskatchewan, Canada
 MS
 http://hdl.handle.net/10388/etd-09192008-151723
 
+Goudarzi, Atousa
+2009
+Space and ground based studies of transpolar arcs
+Mark Lester
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/7398
+
 Gray, Christopher
 2018
 High-frequency radar antenna array characterisation
@@ -421,6 +525,14 @@ Wind-wave mapping of the southern ocean using the TIGER SuperDARN radars
 La Trobe University, Australia
 PhD
 
+
+Grocott, Adrian
+2002
+Radar observations of convection in the nightside high-latitude ionosphere
+Stanley W. H. Cowley
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30659
 
 Hill, Madison A.
 2018
@@ -494,6 +606,14 @@ University of Bergen, Norway
 PhD
 http://bora.uib.no/handle/1956/16800
 
+Hutchinson, James A.
+2014
+Geomagnetic storms over the last solar cycle: A superposed epoch analysis
+Darren M. Wright & Stanley W. H. Cowley
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/29033
+
 Huyghebaert, Devin R.
 2013
 Solar wind influences on properties of the ionosphere
@@ -518,6 +638,14 @@ University of Oslo, Norway
 MS
 https://www.duo.uio.no/handle/10852/11234
 
+Imber, Suzanne M.
+2008
+Auroral and ionospheric flow measurements of magnetopause reconnection during intervals of northerward interplanetary magnetic field
+Stephen E. Milan & Mark Lester
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/8466
+
 Iserhienrhien, Blessing
 2016
 On the origin of close-range E region echoes observed by SuperDARN HF radars in the mid- and high latitudes
@@ -533,6 +661,14 @@ William A. Bristow
 University of Alaska Fairbanks, USA
 MS
 http://hdl.handle.net/11122/4599
+
+James, Matthew K.
+2015
+ULF waves driven by recently-injected energetic particle populations
+Timothy K. Yeoman & Darren M. Wright
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/32519
 
 Joshi, Pratik P.
 2015
@@ -573,6 +709,14 @@ Roman A. Makarevich
 University of Alaska Fairbanks, USA
 PhD
 http://hdl.handle.net/11122/7619
+
+Lawal, Hammed A.
+2017
+Long-term variations in HF radar backscatter
+Mark Lester & Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/40033
 
 Leonard, J. M.
 1991
@@ -701,6 +845,14 @@ Simon G. Shepherd
 Dartmouth College, USA
 MS
 https://search.proquest.com/docview/1512424312
+
+McWilliams, Kathryn A.
+2001
+Ionospheric signatures of dayside reconnection processes
+Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30652
 
 Mdibi, Lusanda
 2016
@@ -926,6 +1078,22 @@ Virginia Tech, USA
 MS
 http://hdl.handle.net/10919/23845
 
+Provan, Gabrielle
+1998
+Coherent scatter radar observations of field line resonances and flux transfer events
+Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30613
+
+Rae, Iain J.
+2000
+Joint ground/space observations of transient phenomena associated with the polar cusp
+
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30636
+
 Raghavendar, Changalvala
 2005
 Design of a receiver for measurement of real-time ionospheric reflection height
@@ -941,6 +1109,14 @@ Joseph B. H. Baker & J. Michael Ruohoniemi
 Virginia Tech, USA
 MS
 http://hdl.handle.net/10919/33998
+
+Raymer, Katie M.
+2018
+Influences on the location of the Earth's magnetopause
+Suzanne M. Imber & Stephen E. Milan
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/43064
 
 Reed, Kristian
 2017
@@ -998,6 +1174,14 @@ University of Oslo, Norway
 PhD
 https://www.duo.uio.no/handle/10852/10994
 
+Ronksley, Amy
+2016
+Optical remote sensing of mesoscale thermospheric dynamics above Svalbard and Kiruna
+Anasuya Aruliah & Alan Aylward
+University College London, UK
+PhD
+https://discovery.ucl.ac.uk/id/eprint/1475445/
+
 Salim, Tariq
 2003
 Design, synthesis and implementation of a phased array transmitter using reconfigurable devices for SuperDARN class radars
@@ -1030,6 +1214,14 @@ University of Saskatchewan, Canada
 MS
 http://hdl.handle.net/10388/etd-04032007-171247
 
+Scoffield, Hannah C.
+2005
+Ultra low frequency waves in the magnetosphere-ionosphere system: A joint space- and ground-based investigation
+Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/30692
+
 Scoular, Grant
 2013
 Polar cap ionospheric oscillations in the ULF frequency range observed with SuperDARN HF radar
@@ -1046,6 +1238,14 @@ University of Newcastle, Australia
 PhD
 http://hdl.handle.net/1959.13/1042283
 
+Shand, Brian A.
+1996
+Statistics of E-region backscatter and investigations of auroral convection signatures
+Tudor B. Jones & Mark Lester
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/35779
+
 Sharma, Arvind
 2007
 A DMSP satellite study of magnetospheric plasma convection and particle precipitation states during passage at Earth of interplanetary magnetic clouds monitored by the Wind spacecraft
@@ -1053,6 +1253,14 @@ Per Even Sandholt & Charles J. Farrugia
 University of Oslo, Norway
 MS
 https://www.duo.uio.no/handle/10852/11154
+
+Shergill, Harmaninder
+2007
+A statistical study of high-latitude artificial field-aligned irregularities
+Terence R. Robinson
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/9535
 
 Shi, Xueling
 2019
@@ -1101,6 +1309,14 @@ Patrick J. Espy
 Norwegian University of Science and Technology, Norway
 PhD
 http://hdl.handle.net/11250/284495
+
+Taylor, John R.
+1994
+The cause of magnetic disturbances in the Earth's ionosphere
+Mark Lester
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/35806
 
 Theurer, Timothy E.
 2012
@@ -1165,6 +1381,14 @@ Andrew Wilkinson, Michael J. Kosch & Jonathan Ward
 University of Cape Town, South Africa
 MS
 
+
+Vickers, Hannah M. S.
+2011
+Radar observations of artificial ionospheric modification effects
+Terence R. Robinson & Darren M. Wright
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/8952
 
 Victorin, Amalia
 2007
