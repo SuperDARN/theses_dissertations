@@ -23,7 +23,7 @@
 #include <ctype.h>
 
 #define STRLEN 512
-#define MAX_DOC 200
+#define MAX_DOC 500
 
 struct thesis {
   char author[STRLEN];
