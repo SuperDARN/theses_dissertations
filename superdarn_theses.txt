@@ -662,6 +662,14 @@ University of Saskatchewan, Canada
 PhD
 http://hdl.handle.net/10388/ETD-2016-04-2517
 
+Ishida, Tetsuro
+2007
+Propagation of medium-scale traveling ionospheric disturbances (MSTIDs): simultaneous observations at auroral and mid latitudes
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
+
 Jafari, Ramin
 2013
 SuperDARN parameter estimation optimization and implementation of new techniques
@@ -694,6 +702,14 @@ University of Alberta, Canada
 MS
 https://search.proquest.com/docview/304792876
 
+Kashimoto, Tomoka
+2008
+Study of generation mechanism of polar cap patches by using measurements of HF radars and an airglow imager
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
+
 Kennedy, Paul S.
 2019
 Design of software defined radio for SuperDARN radar
@@ -701,6 +717,14 @@ Joseph B. H. Baker & J. Michael Ruohoniemi
 Virginia Tech, USA
 MS
 http://hdl.handle.net/10919/89908
+
+Kimura, Yota
+2017
+Motion and structure of polar cap aurora as visualized by multiple all-sky cameras
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
 
 Kunduri, Bharat S. R.
 2013
@@ -1022,6 +1046,14 @@ University of KwaZulu-Natal, South Africa
 PhD
 
 
+Okamura, Kazu
+2018
+Study of polar cap patches by using airglow observations near the magnetic north pole: response to CME and CIR
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
+
 Oksavik, Kjellmar
 2002
 A study of temporal and spatial variations in the polar cusp/cleft region using multi-instrument techniques
@@ -1029,6 +1061,14 @@ Finn Soraas & Jøran I. Moen
 University of Bergen & University Courses on Svalbard, Norway
 PhD
 https://folk.uib.no/st07350/papers/DoctorThesis.pdf
+
+Ozaki, Naoki
+2016
+Derivation of field-aligned currents by combining IMAGE FUV and SuperDARN
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
 
 Parker, James
 2018
@@ -1190,6 +1230,14 @@ University College London, UK
 PhD
 https://discovery.ucl.ac.uk/id/eprint/1475445/
 
+Saisho, Takashi
+2014
+Multiple-scale radio and optical imaging observations of polar cap aurora
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
+
 Salim, Tariq
 2003
 Design, synthesis and implementation of a phased array transmitter using reconfigurable devices for SuperDARN class radars
@@ -1278,6 +1326,14 @@ Virginia Tech, USA
 PhD
 
 
+Shimizu, Satoshi
+2006
+Analysis of spatio-temporal variations of traveling ionospheric disturbances with multiple radar observations
+Keisuke Hosokawa
+University of Electro-Communications, Japan
+MS
+
+
 Simon, Michelle R.
 2016
 Using SuperDARN to predict polar irregularities that cause GPS scintillation
@@ -1317,6 +1373,14 @@ Patrick J. Espy
 Norwegian University of Science and Technology, Norway
 PhD
 http://hdl.handle.net/11250/284495
+
+Sugita, Rie
+2009
+High-time resolution measurement of auroral breakup by an all-sky TV camera and HF radars in Iceland
+Keisuke Hosokaea
+University of Electro-Communications, Japan
+MS
+
 
 Taylor, John R.
 1994
