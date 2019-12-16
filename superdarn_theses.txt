@@ -142,6 +142,14 @@ Utah State University, USA
 MS
 https://search.proquest.com/docview/305102611
 
+Billett, Daniel D.
+2019
+The great space weather washing machine: Examining the dynamics of high-latitude ionosphere-thermosphere coupling
+James A. Wild & Adrian Grocott
+Lancaster University, UK
+PhD
+https://doi.org/10.17635/lancaster/thesis/762
+
 Bland, Emma C.
 2016
 High frequency remote sensing of Pc5 ultra-low frequency waves using the Super Dual Auroral Radar Network
@@ -757,6 +765,14 @@ Mark Lester & Timothy K. Yeoman
 University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/40033
+
+Laurens, Hannah
+2019
+Plasma flow boundaries in the high-latitude ionosphere
+Adrian Grocott
+Lancaster University, UK
+PhD
+https://doi.org/10.17635/lancaster/thesis/758
 
 Leonard, J. M.
 1991
