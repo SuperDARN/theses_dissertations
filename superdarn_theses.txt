@@ -529,7 +529,7 @@ MS
 Greenwood, Robert I.
 2010
 Wind-wave mapping of the southern ocean using the TIGER SuperDARN radars
-
+Murray L. Parkinson & Peter L. Dyson
 La Trobe University, Australia
 PhD
 
@@ -709,6 +709,14 @@ Keisuke Hosokawa
 University of Electro-Communications, Japan
 MS
 
+
+Kellerman, Adam C.
+2012
+High-energy auroral particle precipitation and plasma convection during substorms
+Roman A. Makarevich & John C. Devlin
+La Trobe University
+PhD
+http://hdl.handle.net/1959.9/523302
 
 Kennedy, Paul S.
 2019
