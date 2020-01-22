@@ -526,13 +526,13 @@ University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/7398
 
-Gray, Christopher
-2018
-High-frequency radar antenna array characterisation
+Gray, Christopher P.
+2019
+Improving a Super Dual Auroral Radar Network reflector though directivity characterisation
 P. Gideon Wiid & Michael J. Kosch
 Stellenbosch University, South Africa
 MS
-
+http://hdl.handle.net/10019.1/107228
 
 Greenwood, Robert I.
 2010
