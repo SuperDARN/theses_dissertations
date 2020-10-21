@@ -918,13 +918,13 @@ University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/30652
 
-Mdibi, Lusanda
-2016
+Mdibi, Lusanda Lunica
+2019
 A land-based HF transmitter for ionospheric propagation studies using SuperDARN radars
+Michael Kosch, Robert van Zyl & Jonathan Ward
 Cape Peninsula University of Technology, South Africa
-Robert van Zyl & Michael J. Kosch
 MS
-
+http://hdl.handle.net/20.500.11838/3054
 
 McWilliam, Kathleen
 2018
@@ -1430,6 +1430,14 @@ University of Alaska Fairbanks, USA
 MS
 http://hdl.handle.net/11122/8421
 
+Theurer, Timothy E.
+2020
+High-latitude over-the-horizon radar applications
+William A. Bristow
+University of Alaska Fairbanks, USA
+PhD
+http://hdl.handle.net/11122/11294
+
 Thomas, Evan G.
 2012
 Dynamics of the geomagnetically disturbed ionosphere as measured by GPS receivers and SuperDARN HF radars
@@ -1533,6 +1541,14 @@ George J. Sofko & Kathryn A. McWilliams
 University of Saskatchewan, Canada
 MS
 http://hdl.handle.net/10388/8078
+
+Wharton, Samuel J.
+2020
+ULF wave eigenfrequencies in the Earth's magnetosphere
+Darren M. Wright & Timothy K. Yeoman
+University of Leicester, UK
+PhD
+https://doi.org/10.25392/leicester.data.12666908.v1
 
 Whittick, Emma L.
 2011
