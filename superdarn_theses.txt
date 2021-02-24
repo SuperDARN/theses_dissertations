@@ -1470,6 +1470,14 @@ University of Saskatchewan, Canada
 MS
 http://hdl.handle.net/10388/ETD-2013-03-1448
 
+Ullrich, Sydney
+2020
+Trends in ocurrence of polar cap SuperDARN echoes and electron density variations in the ionosphere
+Alexandre V. Koustov
+University of Saskatchewan
+MS
+http://hdl.handle.net/10388/13253
+
 Vallières, Xavier
 2002
 Turbulence scales in the high-latitude ionosphere and their signatures upon echoes detected by SuperDARN HF radars
