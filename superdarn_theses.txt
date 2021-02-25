@@ -46,7 +46,7 @@ Norwegian University of Science and Technology, Norway
 MS
 http://hdl.handle.net/11250/2398890
 
-Baddeley, Lisa
+Baddeley, Lisa J.
 2003
 Wave-particle insteractions in the terrestrial magnetosphere
 Timothy K. Yeoman
@@ -201,7 +201,7 @@ http://hdl.handle.net/11250/246768
 Chen, Xiang-Cai
 2017
 A study of dayside open/closed field line boundary dynamics using simultaneous ground-based optical and HF radar observations
-Dag Lorentzen & Jøran I. Moen
+Dag A. Lorentzen & Jøran I. Moen
 The University Centre in Svalbard & University of Oslo, Norway
 PhD
 
@@ -550,6 +550,14 @@ University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/30659
 
+Herlingshaw, Katie
+2021
+Characterising mesoscale fast flow channels in the polar cap ionosphere
+Lisa J. Baddeley, Kjellmar Oksavik & Dag A. Lorentzen
+The University Centre in Svalbard & University of Bergen, Norway
+PhD
+https://hdl.handle.net/11250/2724001
+
 Hill, Madison A.
 2018
 Solar flare detection in SuperDARN data
@@ -805,6 +813,14 @@ Thierry Dudok de Wit & Christian Hanuise
 Orléans University, France
 PhD
 https://tel.archives-ouvertes.fr/tel-00294447
+
+Luque, Lidia
+2020
+Multi-instrument investigation of spectral width in the polar ionosphere
+Lisa J. Baddeley & Patrick J. Espy
+The University Centre in Svalbard & Norwegian University of Science and Technology, Norway
+MS
+http://kho.unis.no/doc/Luque_thesis.pdf
 
 M'mame, Bernard
 2018
@@ -1489,7 +1505,7 @@ https://tel.archives-ouvertes.fr/tel-00689878
 van der Meeren, Christer
 2016
 Mesoscale ionospheric plasma irregularities and scintillation over Svalbard
-Kjellmar Oksavik & Dag Lorentzen
+Kjellmar Oksavik & Dag A. Lorentzen
 University of Bergen & The University Centre in Svalbard, Norway
 PhD
 http://bora.uib.no/handle/1956/12991
