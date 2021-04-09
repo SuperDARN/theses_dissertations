@@ -94,14 +94,6 @@ University of Cape Town, South Africa
 MS
 http://hdl.handle.net/11427/27082
 
-Barthès, Laurent
-1993
-Study of ionospheric plasma instabilities
-Jacques Citerne
-Paris 11 University, France
-PhD
-https://www.theses.fr/1993PA112090
-
 Barth, Vigdis L.
 2009
 Identification and tracking of extreme electron densities by EISCAT Svalbard radar and SuperDARN
@@ -109,6 +101,14 @@ Jøran I. Moen & Kjellmar Oksavik
 University of Oslo, Norway
 MS
 http://hdl.handle.net/10852/11231
+
+Barthès, Laurent
+1993
+Study of ionospheric plasma instabilities
+Jacques Citerne
+Paris 11 University, France
+PhD
+https://www.theses.fr/1993PA112090
 
 Benkevitch, Leonid V.
 2005
@@ -294,14 +294,6 @@ University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/40448
 
-Demissie, Teferi D.
-2013
-The vertical structure and source regions of large and small scale waves in the middle atmosphere
-Patrick J. Espy
-Norwegian University of Science and Technology, Norway
-PhD
-http://hdl.handle.net/11250/247139
-
 de Larquier, Sebastien
 2013
 The mid-latitude ionosphere under quiet geomagnetic conditions: propagation analysis of SuperDARN radar observations from large ionospheric perturbations
@@ -309,6 +301,14 @@ Joseph B. H. Baker & J. Michael Ruohoniemi
 Virginia Tech, USA
 PhD
 http://hdl.handle.net/10919/24770
+
+Demissie, Teferi D.
+2013
+The vertical structure and source regions of large and small scale waves in the middle atmosphere
+Patrick J. Espy
+Norwegian University of Science and Technology, Norway
+PhD
+http://hdl.handle.net/11250/247139
 
 Dhillon, Ranvir S.
 2002
@@ -406,6 +406,22 @@ University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/4555
 
+Forsythe, Victoriya V.
+2017
+High frequency backscatter from the polar and auroral E-region ionosphere
+William A. Bristow
+University of Alaska Fairbanks, USA
+PhD
+http://hdl.handle.net/11122/7600
+
+Foucault, Etienne
+2020
+Propagation of high-frequency radio waves in the mid-latitude ionosphere
+Aurélie Marchaudon & Pierre-Louis Blelly
+Toulouse 3 University, France
+PhD
+http://thesesups.ups-tlse.fr/4621/
+
 Friedrich, Erena
 2002
 Dynamics of the substorm expansive phase
@@ -421,14 +437,6 @@ Joseph B. H. Baker & J. Michael Ruohoniemi
 Virginia Tech, USA
 PhD
 http://hdl.handle.net/10919/74976
-
-Forsythe, Victoriya V.
-2017
-High frequency backscatter from the polar and auroral E-region ionosphere
-William A. Bristow
-University of Alaska Fairbanks, USA
-PhD
-http://hdl.handle.net/11122/7600
 
 Gallardo-Lacourt, Beatriz I.
 2016
@@ -766,14 +774,6 @@ University of Alaska Fairbanks, USA
 PhD
 http://hdl.handle.net/11122/7619
 
-Lawal, Hammed A.
-2017
-Long-term variations in HF radar backscatter
-Mark Lester & Timothy K. Yeoman
-University of Leicester, UK
-PhD
-http://hdl.handle.net/2381/40033
-
 Laurens, Hannah
 2019
 Plasma flow boundaries in the high-latitude ionosphere
@@ -781,6 +781,14 @@ Adrian Grocott
 Lancaster University, UK
 PhD
 https://doi.org/10.17635/lancaster/thesis/758
+
+Lawal, Hammed A.
+2017
+Long-term variations in HF radar backscatter
+Mark Lester & Timothy K. Yeoman
+University of Leicester, UK
+PhD
+http://hdl.handle.net/2381/40033
 
 Leonard, J. M.
 1991
@@ -926,6 +934,14 @@ Dartmouth College, USA
 MS
 https://search.proquest.com/docview/1512424312
 
+McWilliam, Kathleen
+2018
+Design of an HF transmit antenna for bistatic ionospheric soundings in Antarctica
+Francois Schonken, Michael J. Kosch & Jonathan Ward
+University of Cape Town, South Africa
+MS
+
+
 McWilliams, Kathryn A.
 2001
 Ionospheric signatures of dayside reconnection processes
@@ -941,14 +957,6 @@ Michael Kosch, Robert van Zyl & Jonathan Ward
 Cape Peninsula University of Technology, South Africa
 MS
 http://hdl.handle.net/20.500.11838/3054
-
-McWilliam, Kathleen
-2018
-Design of an HF transmit antenna for bistatic ionospheric soundings in Antarctica
-Francois Schonken, Michael J. Kosch & Jonathan Ward
-University of Cape Town, South Africa
-MS
-
 
 Minko, F. Sagouo
 2013
@@ -1398,14 +1406,6 @@ University of Michigan, USA
 PhD
 http://hdl.handle.net/2027.42/135838
 
-Strömberg, Frida
-2017
-Formulating launch conditions for a sounding rocket
-Mykola Ivchenko
-KTH Royal Institute of Technology, Sweden
-MS
-http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-214463
-
 Sterne, Kevin T.
 2010
 Testing the re-designed SuperDARN HF radar and modeling of a twin terminated folded dipole array
@@ -1421,6 +1421,14 @@ Patrick J. Espy
 Norwegian University of Science and Technology, Norway
 PhD
 http://hdl.handle.net/11250/284495
+
+Strömberg, Frida
+2017
+Formulating launch conditions for a sounding rocket
+Mykola Ivchenko
+KTH Royal Institute of Technology, Sweden
+MS
+http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-214463
 
 Sugita, Rie
 2009
