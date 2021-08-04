@@ -161,7 +161,7 @@ http://hdl.handle.net/1959.9/558130
 Bond, Giles E.
 1997
 The interaction of radio waves with the auroral ionosphere
-
+Terence R. Robinson
 University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/30629
@@ -369,7 +369,7 @@ http://hdl.handle.net/11427/27872
 Eglitis, Paul
 1994
 Radar studies of small-scale E-region plasma irregularities
-
+Terence R. Robinson
 University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/35875
@@ -966,6 +966,14 @@ Cape Peninsula University of Technology, South Africa
 MS
 http://hdl.handle.net/20.500.11838/3054
 
+Michael, Chizurumoke
+2020
+Analysis of high latitude ULF waves and HF radar performance for African equatorial latitude SuperDARN
+Timothy K. Yeoman
+University of Leicester, UK
+PhD
+
+
 Minko, F. Sagouo
 2013
 CubeSat mission design for characterising the dual auroral radar network (SuperDARN) field-of-view
@@ -1201,7 +1209,7 @@ http://hdl.handle.net/2381/30613
 Rae, Iain J.
 2000
 Joint ground/space observations of transient phenomena associated with the polar cusp
-
+Mark Lester
 University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/30636
