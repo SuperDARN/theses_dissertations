@@ -446,6 +446,14 @@ Virginia Tech, USA
 PhD
 http://hdl.handle.net/10919/74976
 
+Galeschuk, Draven T.
+2021
+Verification and calibration of the ICEBEAR radar through GPU acceleration, noise characterization and calculation, and radio galaxy phase calibration
+Glenn C. Hussey
+University of Saskatchewan, Canada
+MS
+https://hdl.handle.net/10388/13427
+
 Gallardo-Lacourt, Beatriz I.
 2016
 Properties of mesoscale flows in the nightside auroral and subauroral ionosphere
