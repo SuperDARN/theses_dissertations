@@ -23,7 +23,6 @@
 #include <ctype.h>
 
 #define STRLEN 512
-#define MAX_DOC 500
 
 struct thesis {
   char author[STRLEN];
@@ -36,9 +35,9 @@ struct thesis {
 };
 
 
-int parse_text(FILE *fp, struct thesis entry[MAX_DOC]);
+struct thesis *parse_text(FILE *fp, int *num);
 int compare(const void *s1, const void *s2);
-int write_html(struct thesis entry[MAX_DOC], int cnt);
+int write_html(struct thesis *entry, int num);
 
 
 int main(int argc, char *argv[]) {
@@ -46,8 +45,8 @@ int main(int argc, char *argv[]) {
   char fname[STRLEN];
   FILE *fp;
 
-  struct thesis entry[MAX_DOC];
-  int cnt=0;
+  struct thesis *entry=NULL;
+  int num=0;
 
   /* Get input filename */
   if (argc < 2) strcpy(fname, "superdarn_theses.txt");
@@ -61,23 +60,23 @@ int main(int argc, char *argv[]) {
   }
 
   /* Parse input text file for information about each thesis/dissertation */
-  cnt = parse_text(fp, entry);
+  entry = parse_text(fp, &num);
 
   /* Close input text file */
   fclose(fp);
 
   /* Check for error when parsing input text file */
-  if (cnt == -1) {
+  if (num == -1) {
     fprintf(stderr, "Failed to parse input text file.\n");
     return (-1);
   }
 
   /* Sort theses/dissertations first by year and then alphabetically by author last name
    * Note: this may not be necessary if the input text file was already sorted */
-  qsort(entry, cnt, sizeof(struct thesis), compare);
+  qsort(entry, num, sizeof(struct thesis), compare);
 
   /* Build html and write to stdout */
-  write_html(entry, cnt);
+  write_html(entry, num);
 
   return (0);
 }
@@ -86,8 +85,9 @@ int main(int argc, char *argv[]) {
 /* Function to parse a text file and store information about each
  * thesis/dissertation in the appropriate field of a structure and
  * return the number of entries found */
-int parse_text(FILE *fp, struct thesis entry[MAX_DOC]) {
+struct thesis *parse_text(FILE *fp, int *num) {
 
+  struct thesis *entry=NULL;
   char line[STRLEN];
   int i=0, cnt=0;
 
@@ -100,6 +100,9 @@ int parse_text(FILE *fp, struct thesis entry[MAX_DOC]) {
     /* Assign each line of text file to appropriate field */
     switch(i) {
       case 0:
+        if (entry == NULL) entry = malloc(sizeof(struct thesis));
+        else               entry = realloc(entry,sizeof(struct thesis)*(cnt+1));
+
         strcpy(entry[cnt].author, line);
         break;
       case 1:
@@ -123,18 +126,15 @@ int parse_text(FILE *fp, struct thesis entry[MAX_DOC]) {
         break;
     }
 
-    if (cnt >= MAX_DOC) {
-      fprintf(stderr, "Too many entries, need to increase MAX_DOC\n");
-      return (-1);
-    }
-
     /* Advance to next field or reset to the beginning for a new entry */
     i++;
     if (i == 8) i=0;
   }
 
   /* Return the number of thesis/dissertation entries read from file */
-  return cnt;
+  *num = cnt;
+
+  return entry;
 }
 
 
@@ -165,7 +165,7 @@ int compare(const void *s1, const void *s2) {
 
 /* Function to build the thesis/dissertation html and
  * write it to stdout */
-int write_html(struct thesis entry[MAX_DOC], int cnt) {
+int write_html(struct thesis *entry, int num) {
 
   int i, yearcompare;
   int ms_cnt=0, phd_cnt=0;
@@ -180,7 +180,7 @@ int write_html(struct thesis entry[MAX_DOC], int cnt) {
   fprintf(stdout, "    <b>Jump to:</b>&nbsp;\n");
   strcpy(year, entry[0].year);
   fprintf(stdout, "    <a href=\"#%s\">%s</a>&nbsp;",year,year);
-  for (i=0; i<cnt; i++) {
+  for (i=0; i<num; i++) {
     yearcompare = strcmp(year, entry[i].year);
     if (yearcompare != 0) {
       strcpy(year, entry[i].year);
@@ -196,7 +196,7 @@ int write_html(struct thesis entry[MAX_DOC], int cnt) {
   fprintf(stdout, "  <center><b>%s</b></center><br>\n\n", year);
 
   /* Step through each thesis/dissertation */
-  for (i=0; i<cnt; i++) {
+  for (i=0; i<num; i++) {
 
     /* Count number of theses/dissertations by degree type */
     if (strcmp(entry[i].degree, "MS") == 0) ms_cnt++;
@@ -227,7 +227,7 @@ int write_html(struct thesis entry[MAX_DOC], int cnt) {
   }
 
   /* Print total number of items at bottom of page */
-  fprintf(stdout, "  <center>Number of items: <b>%d</b></center>\n", cnt);
+  fprintf(stdout, "  <center>Number of items: <b>%d</b></center>\n", num);
   fprintf(stdout, "  <center>(%d MS | %d PhD)</center>\n\n",ms_cnt,phd_cnt);
 
   /* Finish writing html output to stdout */
