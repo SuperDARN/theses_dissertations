@@ -200,7 +200,7 @@ http://hdl.handle.net/10919/103706
 
 Chapana, Randi S. H.
 2012
-The relative influence of solar radiative and solar geomagnetic variation on the dynamics of the plar upper mesosphere
+The relative influence of solar radiative and solar geomagnetic variation on the dynamics of the polar upper mesosphere
 Robert E. Hibbins
 Norwegian University of Science and Technology, Norway
 MS
@@ -400,7 +400,7 @@ https://doi.org/10.7939/R36D5PN7X
 
 Fiori, Robyn A. D.
 2012
-Applicatin of spherical cap harmonic analysis to plasma convection mapping at high latitudes
+Application of spherical cap harmonic analysis to plasma convection mapping at high latitudes
 Alexandre V. Koustov & David H. Boteler
 University of Saskatchewan, Canada
 PhD
@@ -696,7 +696,7 @@ https://www.duo.uio.no/handle/10852/11234
 
 Imber, Suzanne M.
 2008
-Auroral and ionospheric flow measurements of magnetopause reconnection during intervals of northerward interplanetary magnetic field
+Auroral and ionospheric flow measurements of magnetopause reconnection during intervals of northward interplanetary magnetic field
 Stephen E. Milan & Mark Lester
 University of Leicester, UK
 PhD
@@ -736,7 +736,7 @@ http://hdl.handle.net/2381/32519
 
 Joshi, Pratik P.
 2015
-Ion-neutral coupling in the geomagnetically disturbed mid-latitude ionosphere as observed by SuperDARN HF radars and NATION Fabry-Perot Interferometers
+Ion-neutral coupling in the geomagnetically disturbed mid-latitude ionosphere as observed by SuperDARN HF radars and NATION Fabry-Perot interferometers
 Joseph B. H. Baker & J. Michael Ruohoniemi
 Virginia Tech, USA
 MS
@@ -944,7 +944,7 @@ https://doi.org/10.7939/R3416T70S
 
 Mbatha, Nkanyiso B.
 2012
-Study on 2002 sudden stratospheric warming, mesopher-lower thermospheric wind structure and dynamics and middle atmospheric structure, based on SuperDARN HF radar, LIDAR, Riometer, satellites and models
+Study on 2002 sudden stratospheric warming, mesopher-lower thermospheric wind structure and dynamics and middle atmospheric structure, based on SuperDARN HF radar, LIDAR, riometer, satellites and models
 Sivakumar Venkataraman, Sandile B. Malinga, Sadhasivan Pillay & Hassan Bencherif
 University of KwaZulu-Natal, South Africa
 PhD
