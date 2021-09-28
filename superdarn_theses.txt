@@ -412,7 +412,7 @@ SuperDARN observations of high latitude electrodynamics in the terrestrial ionos
 Mark Lester & Timothy K. Yeoman
 University of Leicester, UK
 PhD
-https://doi.org/10.25392/leicester.data.11854713.v1
+https://doi.org/10.25392/leicester.data.16621912.v1
 
 Forsyth, Colin
 2009
