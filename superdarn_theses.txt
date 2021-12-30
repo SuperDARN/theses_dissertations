@@ -988,7 +988,7 @@ Analysis of high latitude ULF waves and HF radar performance for African equator
 Timothy K. Yeoman
 University of Leicester, UK
 PhD
-
+https://doi.org/10.25392/leicester.data.14932728.v1
 
 Minko, F. Sagouo
 2013
