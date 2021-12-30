@@ -388,7 +388,7 @@ Wave pulsations in the magnetosphere and their dependence on the solar wind
 A. David M. Walker & Judy A. E. Stephenson
 University of KwaZulu-Natal, South Africa & KTH Royal Institute of Technology, Sweden
 MS
-
+http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-91539
 
 Fenrich, Frances R. E.
 1997
@@ -870,6 +870,14 @@ University of Saskatchewan, Canada
 PhD
 http://hdl.handle.net/10388/etd-03032009-122236
 
+MacWilliam, Kathleen
+2020
+Design of an HF transmit antenna for bistatic ionospheric soundings in Antarctica
+Francois Schonken, Michael J. Kosch & Jonathan Ward
+University of Cape Town, South Africa
+MS
+http://hdl.handle.net/11427/32406
+
 Magnus, Lindsay G.
 2009
 An analysis of Pc5 pulsations observed in the SuperDARN radar data
@@ -957,14 +965,6 @@ Simon G. Shepherd
 Dartmouth College, USA
 MS
 https://search.proquest.com/docview/1512424312
-
-McWilliam, Kathleen
-2018
-Design of an HF transmit antenna for bistatic ionospheric soundings in Antarctica
-Francois Schonken, Michael J. Kosch & Jonathan Ward
-University of Cape Town, South Africa
-MS
-
 
 McWilliams, Kathryn A.
 2001
@@ -1238,6 +1238,14 @@ University of Alaska Fairbanks, USA
 MS
 http://hdl.handle.net/11122/5999
 
+Rathod, Chirag
+2021
+Examining plasma instabilities as ionospheric turbulence generation mechanisms using pseudo-spectral methods
+Bhuvana Srinivasan & Wayne A. Scales
+Virginia Tech, USA
+PhD
+http://hdl.handle.net/10919/102892
+
 Ravindran Varrier, Nitya
 2010
 Ray tracing analysis for the mid-latitude SuperDARN HF radar at Blackstone incorporating the IRI-2007 model
@@ -1438,6 +1446,14 @@ University of Michigan, USA
 PhD
 http://hdl.handle.net/2027.42/135838
 
+Starr, Gregory W. S.
+2021
+Enabling statistical analysis of the main ionospheric trough with computer vision
+Joshua L. Semeter
+Boston University, USA
+MS
+https://hdl.handle.net/2144/43082
+
 Sterne, Kevin T.
 2010
 Testing the re-designed SuperDARN HF radar and modeling of a twin terminated folded dipole array
@@ -1551,12 +1567,12 @@ PhD
 http://bora.uib.no/handle/1956/12991
 
 van Zyl, Willem
-2018
-Development of a RF listening mode on the Tiger-3 FPGA platform
+2020
+Development of an RF listening mode on the Tiger-3 FPGA platform
 Andrew Wilkinson, Michael J. Kosch & Jonathan Ward
 University of Cape Town, South Africa
 MS
-
+http://hdl.handle.net/11427/33097
 
 Vickers, Hannah M. S.
 2011
@@ -1597,6 +1613,14 @@ Yu Morton
 Miami University, USA
 MS
 http://rave.ohiolink.edu/etdc/view?acc_num=miami1385774581
+
+Wang, Zihan
+2021
+Dynamics and drivers of multi-scale storm-time ionospheric density structures
+Shasha Zou
+University of Michigan, USA
+PhD
+https://dx.doi.org/10.7302/2824
 
 Wessel, Matthew R.
 2017
