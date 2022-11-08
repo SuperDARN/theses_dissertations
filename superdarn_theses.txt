@@ -798,6 +798,14 @@ University of Alaska Fairbanks, USA
 PhD
 http://hdl.handle.net/11122/7619
 
+Lane, James H.
+2022
+Dusk-dawn convection asymmetries in the Earth's magnetotail: The influence of IMF By and transient dynamics
+Adrian Grocott
+Lancaster University, UK
+PhD
+https://doi.org/10.17635/lancaster/thesis/1586
+
 Laurens, Hannah
 2019
 Plasma flow boundaries in the high-latitude ionosphere
@@ -1286,6 +1294,14 @@ University of Bergen, Norway
 PhD
 http://bora.uib.no/handle/1956/12121
 
+Ren, Jiaen
+2022
+Characteristics and generation mechanism of polar cap patches: Multi-instrument observations
+Shasha Zou
+University of Michigan, USA
+PhD
+https://hdl.handle.net/2027.42/172752
+
 Ribeiro, Alvaro J.
 2011
 An examination of ionospheric plasma irregularities detected by the mid-latitude SuperDARN radars
@@ -1438,6 +1454,14 @@ University of Alaska Fairbanks, USA
 MS
 http://hdl.handle.net/11122/7312
 
+Smith, Dallin R.
+2020
+An investigation of electromagnetic waves in the ocean and ionosphere using the finite-difference time-domain method
+Simpson, Jamesina J.
+University of Utah, USA
+PhD
+https://search.proquest.com/docview/2707996721
+
 Smith, Lois K.
 2016
 Data analysis of the high-energy ion tail in Earth's plasmasphere
@@ -1485,6 +1509,14 @@ Keisuke Hosokaea
 University of Electro-Communications, Japan
 MS
 
+
+Svendsen, Ingvild
+2021
+Correlation between the mean wind in the mesosphere and lower thermosphere and solar cycles
+Patrick J. Espy
+Norwegian University of Science and Technology, Norway
+MS
+https://hdl.handle.net/11250/2828954
 
 Taylor, John R.
 1994
