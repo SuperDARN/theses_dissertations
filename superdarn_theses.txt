@@ -762,9 +762,17 @@ Kellerman, Adam C.
 2012
 High-energy auroral particle precipitation and plasma convection during substorms
 Roman A. Makarevich & John C. Devlin
-La Trobe University
+La Trobe University, Australia
 PhD
 http://hdl.handle.net/1959.9/523302
+
+Kelley, Ian J.
+2022
+Medium scale travelling ionospheric disturbances sensed with GNSS TEC and SuperDARN
+Joseph B. H. Baker & J. Michael Ruohoniemi
+Virginia Tech, USA
+MS
+http://hdl.handle.net/10919/111790
 
 Kennedy, Paul S.
 2019
