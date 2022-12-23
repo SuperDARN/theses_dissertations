@@ -615,12 +615,12 @@ MS
 http://hdl.handle.net/10962/54956
 
 Hiyadutuje, Alicreance
-2019
-The effects of traveling ionospheric disturbances on polar mesospheric summer echoes
+2022
+The effects of traveling ionospheric disturbances on SuperDARN near range echoes
 Michael J. Kosch & Judy A. E. Stephenson
 University of KwaZulu-Natal, South Africa
 PhD
-
+https://researchspace.ukzn.ac.za/handle/10413/21193
 
 Hogue, Christopher M.
 2003
