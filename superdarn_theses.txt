@@ -38,6 +38,14 @@ Orléans University, France
 PhD
 https://www.theses.fr/1997ORLE2027
 
+Atilaw, Tsige Y.
+2021
+An investigation of traveling ionospheric disturbances (TIDs) in the SANAE HF radar data
+Zama T. Katamzi-Joseph & Judy A. E. Stephenson
+Rhodes University, South Africa
+PhD
+
+
 Backer-Owe, Kåre
 2016
 Behaviour of the S1 and S2 components of the semidiurnal tide in the MLT
@@ -558,6 +566,14 @@ University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/7398
 
+Gounden, Harmeshan
+2022
+Observations of medium-scale travelling ionospheric disturbances (MSTIDs) by the SANAE SuperDARN radar for 2013
+Judy A. E. Stephenson
+University of KwaZulu-Natal, South Africa
+MS
+
+
 Gray, Christopher P.
 2019
 Improving a Super Dual Auroral Radar Network reflector though directivity characterisation
@@ -653,6 +669,14 @@ Toshihiko Iyemori
 Kyoto University, Japan
 PhD
 http://hdl.handle.net/2433/149076
+
+Hovland, Amalie Ø.
+2021
+Mesoscale convection associated with a polar cap arc event: Multi-instrument and regional data assimilation results
+Kjellmar Oksavik & Jone P. Reistad
+University of Bergen, Norway
+MS
+https://bora.uib.no/bora-xmlui/handle/11250/2772350
 
 Humberset, Beate K.
 2017
@@ -1597,6 +1621,14 @@ Jean-Paul Villain
 Orléans University, France
 PhD
 https://tel.archives-ouvertes.fr/tel-00689878
+
+van der Meeren, Christer
+2013
+A multi-instrument study of GPS scintillation in the nightside polar cap over Svalbard
+Kjellmar Oksavik
+University of Bergen, Norway
+MS
+
 
 van der Meeren, Christer
 2016
