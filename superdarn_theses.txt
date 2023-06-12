@@ -39,12 +39,12 @@ PhD
 https://www.theses.fr/1997ORLE2027
 
 Atilaw, Tsige Y.
-2021
+2022
 An investigation of traveling ionospheric disturbances (TIDs) in the SANAE HF radar data
 Zama T. Katamzi-Joseph & Judy A. E. Stephenson
 Rhodes University, South Africa
 PhD
-
+http://hdl.handle.net/10962/232377
 
 Backer-Owe, Kåre
 2016
@@ -1198,6 +1198,14 @@ University of Electro-Communications, Japan
 MS
 
 
+Pandey, Aayush
+2023
+SuperDARN antenna upgrade at the South Pole Antarctica
+James. K. Breakall & William A. Bristow
+Penn State University, USA
+MS
+https://etda.libraries.psu.edu/catalog/25120ajp6845
+
 Parker, James
 2018
 Application and evaluation of EDAM with assimilated GPS total electron content in the European sector
@@ -1741,6 +1749,14 @@ C. Robert Clauer
 Virginia Tech, USA
 PhD
 http://hdl.handle.net/10919/26586
+
+Wolpe, Luka
+2022
+Implementation of the transmitting functionality on the TIGER-3 FPGA-based transceiver platform
+Willem Schonken, Michael J. Kosch & Jonathan Ward
+University of Cape Town, South Africa
+MS
+http://hdl.handle.net/11427/36945
 
 Woodfield, Emma E.
 2002
