@@ -598,6 +598,14 @@ University of KwaZulu-Natal, South Africa
 MS
 
 
+Granstedt, Gry E.
+2021
+Solar cycle influence on the semi-diurnal tide in the mesosphere-lower themosphere
+Patrick J. Espy
+Norwegian University of Science and Technology, Norway
+MS
+https://hdl.handle.net/11250/2785571
+
 Gray, Christopher P.
 2019
 Improving a Super Dual Auroral Radar Network reflector though directivity characterisation
@@ -1526,6 +1534,14 @@ University of Alaska Fairbanks, USA
 MS
 http://hdl.handle.net/11122/7312
 
+Slapgaard, Jon K.
+2021
+Solar forcing of planetary waves
+Patrick J. Espy
+Norwegian University of Science and Technology, Norway
+MS
+https://hdl.handle.net/11250/2827716
+
 Smith, Dallin R.
 2020
 An investigation of electromagnetic waves in the ocean and ionosphere using the finite-difference time-domain method
@@ -1577,7 +1593,7 @@ http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-214463
 Sugita, Rie
 2009
 High-time resolution measurement of auroral breakup by an all-sky TV camera and HF radars in Iceland
-Keisuke Hosokaea
+Keisuke Hosokawa
 University of Electro-Communications, Japan
 MS
 
