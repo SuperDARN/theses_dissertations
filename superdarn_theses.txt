@@ -1072,7 +1072,7 @@ MS
 
 Mirzaamin, Tina
 2022
-East-ward propagating planetary waves in SuperDARN radar wind observations
+Eastward-propagating planetary waves in SuperDARN radar wind observations
 Patrick J. Espy & Yvan J. Orsolini
 Norwegian University of Science and Technology, Norway
 MS
