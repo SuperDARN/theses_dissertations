@@ -20,7 +20,7 @@ Do atmospheric waves transport aurorally produced NO down to the middle atmosphe
 Patrick J. Espy
 Norwegian University of Science and Technology, Norway
 MS
-
+http://hdl.handle.net/11250/2408888
 
 Andersen, Carl S.
 2005
@@ -1070,6 +1070,14 @@ University of KwaZulu-Natal, South Africa
 MS
 
 
+Mirzaamin, Tina
+2022
+East-ward propagating planetary waves in SuperDARN radar wind observations
+Patrick J. Espy & Yvan J. Orsolini
+Norwegian University of Science and Technology, Norway
+MS
+https://hdl.handle.net/11250/3036613
+
 Mori, Daniel T.
 2012
 SuperDARN cross polar cap potential and parameters of the near-Earth space
@@ -1653,6 +1661,14 @@ Jean-Paul Villain
 Orléans University, France
 PhD
 https://tel.archives-ouvertes.fr/tel-00689878
+
+van Caspel, Willem E.
+2022
+Atmospheric tides in the mesosphere and lower themosphere: Meteor radar observations and mechanistic tidal model simulations
+Patrick J. Espy & Robert E. Hibbins
+Norwegian University of Science and Technology, Norway
+PhD
+https://hdl.handle.net/11250/3005399
 
 van der Meeren, Christer
 2013
