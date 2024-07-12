@@ -1574,6 +1574,14 @@ Virginia Tech, USA
 MS
 http://hdl.handle.net/10919/32239
 
+Stewart, Evan W.
+2024
+Influence of plasma trails from hypersonic events on HF radar data capture
+Jonathan T. Black
+Virginia Tech, USA
+MS
+https://hdl.handle.net/10919/119438
+
 Stray, Nora H.
 2015
 Planetary waves in the MLT: Vertical coupling and effects
@@ -1613,6 +1621,14 @@ Mark Lester
 University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/35806
+
+Thayer, Aidan
+2023
+An observational study of Southern Hemisphere poleward moving radar auroral forms using 2021 SuperDARN data
+William A. Bristow
+Pennsylvania State University, USA
+MS
+https://etda.libraries.psu.edu/catalog/29751aft5492
 
 Theurer, Timothy E.
 2012
