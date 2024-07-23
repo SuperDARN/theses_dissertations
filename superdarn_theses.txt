@@ -558,6 +558,14 @@ University of Saskatchewan, Canada
 PhD
 http://hdl.handle.net/10388/etd-12152010-124641
 
+Goodbody, Brendan C.
+2014
+Radar and optical studies of small scale features in the aurora: The association of optical signatures with naturally enhanced ion acoustic lines (NEIALs)
+Betty S. Lanchester
+University of Southampton, UK
+PhD
+http://eprints.soton.ac.uk/id/eprint/365486
+
 Goodwin, Lindsay V.
 2013
 F-region dusk ion temperature spikes at the equatorward edge of the high latitude convection region
@@ -845,6 +853,14 @@ Keisuke Hosokawa
 University of Electro-Communications, Japan
 MS
 
+
+Krcelic, Patrik
+2024
+The electrodynamics of fine scale aurora and associated Joule heating
+Robert C. Fear, Daniel Whiter & Betty S. Lanchester
+University of Southampton, UK
+PhD
+http://eprints.soton.ac.uk/id/eprint/490200
 
 Kunduri, Bharat S. R.
 2013
@@ -1358,6 +1374,14 @@ University of Bergen & The University Centre in Svalbard, Norway
 MS
 http://bora.uib.no/handle/1956/16148
 
+Reidy, Jade A.
+2019
+An investigation into the fine-scale structure of polar cap aurora using ground-based and spacecraft instrumentation
+Robert C. Fear
+University of Southampton, UK
+PhD
+http://eprints.soton.ac.uk/id/eprint/456295
+
 Reimer, Ashton S.
 2018
 Improved SuperDARN radar signal processing: A first principles statistical approach for reliable measurement uncertainties and enhanced data products
@@ -1670,6 +1694,14 @@ Paris 6 University, France
 PhD
 https://www.theses.fr/2000PA066456
 
+Throp, Katie
+2005
+Coupling of upstream solar wind features to dayside auroral ionospheric events
+Betty S. Lanchester & Michael Lockwood
+University of Southampton, UK
+PhD
+http://eprints.soton.ac.uk/id/eprint/465803
+
 Toderian, Sarah
 2015
 Modellling the geometric structure of the magnetic field in the nightside magnetosphere
@@ -1677,6 +1709,14 @@ George J. Sofko & Glenn C. Hussey
 University of Saskatchewan, Canada
 MS
 http://hdl.handle.net/10388/ETD-2013-03-1448
+
+Tuttle, Sam A.
+2017
+Quantitative modelling of fine scale auroral emissions and electric fields at sub-second resolution
+Betty S. Lanchester
+University of Southampton, UK
+PhD
+http://eprints.soton.ac.uk/id/eprint/415860
 
 Ullrich, Sydney
 2020
