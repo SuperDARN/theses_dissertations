@@ -718,6 +718,14 @@ University of Bergen, Norway
 MS
 https://bora.uib.no/bora-xmlui/handle/11250/2772350
 
+Hu, Jiahui
+2024
+Development of data assimilation for analysis of ion drifts during geomagnetic storms
+Seebany Datta-Barua
+Illinois Insitute of Technology, USA
+PhD
+http://hdl.handle.net/10560/islandora:1025135
+
 Humberset, Beate K.
 2017
 Scale size-dependent characteristics of the magnetosphere-ionosphere system using auroral imaging
