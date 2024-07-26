@@ -722,7 +722,7 @@ Hu, Jiahui
 2024
 Development of data assimilation for analysis of ion drifts during geomagnetic storms
 Seebany Datta-Barua
-Illinois Insitute of Technology, USA
+Illinois Institute of Technology, USA
 PhD
 http://hdl.handle.net/10560/islandora:1025135
 
