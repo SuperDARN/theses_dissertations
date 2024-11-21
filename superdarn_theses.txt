@@ -446,6 +446,14 @@ University of Leicester, UK
 PhD
 https://doi.org/10.25392/leicester.data.16621912.v1
 
+Fæhn Follestad, Anna
+2020
+Forecasting space weather effects on GNSS systems
+Lasse B. N. Clausen
+University of Oslo, Norway
+PhD
+http://urn.nb.no/URN:NBN:no-81049
+
 Forsyth, Colin
 2009
 Bursty bulk flows and substorm-time magnetotail dynamics
@@ -926,6 +934,14 @@ University of Saskatchewan, Canada
 PhD
 http://hdl.handle.net/10388/etd-10272004-171452
 
+Lie, Henrik B.
+2019
+Decameter scale irregularities in the polar ionosphere
+Lasse B. N. Clausen
+University of Oslo, Norway
+MS
+http://urn.nb.no/URN:NBN:no-74548
+
 Liu, Heng
 2010
 Study of the high-latitude ionosphere with the Rankin Inlet PolarDARN radar
@@ -985,7 +1001,7 @@ http://hdl.handle.net/10413/4975
 Maimaiti, Maimaitirebike
 2019
 Driving influences of ionospheric electrodynamics at mid- and high-latitudes
-J. M. Ruohoniemi & J. B. H. Baker
+J. Michael Ruohoniemi & Joseph B. H. Baker
 Virginia Tech, USA
 PhD
 http://hdl.handle.net/10919/96453
