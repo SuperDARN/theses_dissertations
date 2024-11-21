@@ -3,7 +3,7 @@
 http://superdarn.thayer.dartmouth.edu/WG-sched/dissertations.html
 
 This repository contains an archive of SuperDARN-related theses and dissertations.
-The master `superdarn_theses.txt` file is in the following format:
+The main `superdarn_theses.txt` file is in the following format:
 
 ```
 Author          (Last Name, First Name [Middle Initials])
