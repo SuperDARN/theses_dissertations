@@ -326,6 +326,14 @@ University of Leicester, UK
 PhD
 http://hdl.handle.net/2381/40448
 
+Day, Elliott K.
+2024
+Observations and modelling of Joule heating in the sub-auroral ionosphere
+Adrian Grocott, James A. Wild & Maria-Theresia Walach
+Lancaster University, UK
+PhD
+https://doi.org/10.17635/lancaster/thesis/2525
+
 de Larquier, Sebastien
 2013
 The mid-latitude ionosphere under quiet geomagnetic conditions: propagation analysis of SuperDARN radar observations from large ionospheric perturbations
@@ -861,6 +869,14 @@ Joseph B. H. Baker & J. Michael Ruohoniemi
 Virginia Tech, USA
 MS
 http://hdl.handle.net/10919/89908
+
+Khanal, Krishna
+2025
+Spatial and temporal variability of dayside magnetopause reconnection
+Ying Zou & Gary P. Zank
+University of Alabama in Huntsville, USA
+PhD
+https://louis.uah.edu/uah-dissertations/438
 
 Kimura, Yota
 2017
@@ -1461,6 +1477,14 @@ Jøran I. Moen & Per Even Sandholt
 University of Oslo, Norway
 PhD
 https://www.duo.uio.no/handle/10852/10994
+
+Rohel, Remington A.
+2025
+Improving temporal resolution and spatial coverage of SuperDARN radars using wide transmission beams and multistatic operation
+Kathryn A. McWilliams, Glenn C. Hussey & Pavlo V. Ponomarenko
+University of Saskatchewan, Canada
+MS
+https://hdl.handle.net/10388/16891
 
 Ronksley, Amy
 2016
